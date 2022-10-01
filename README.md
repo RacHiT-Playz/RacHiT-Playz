@@ -1,7 +1,5 @@
 # 👋HI I AM RACHIT 👋
 I am a developer of discord bots I know Java, JavaScript, HTML-5, NodeJS and much more cool languages.
-# DISCORD
-![Discord](https://discord.c99.nl/widget/theme-2/1016381257564827751.png)
 # Heres my stats - <br >
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RacHiT-Playz&theme=vision-friendly-dark)
 # Languages and Tools that I use
